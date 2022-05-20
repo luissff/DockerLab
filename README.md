@@ -1,2 +1,2 @@
-# DockerLab
-Test
+# wscicd
+Workshop CiCd
